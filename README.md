@@ -8,13 +8,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -25,14 +19,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./print-nft-card.jpg)
+![screenshot](./images/print-nft-card.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/broquedev/nft-preview-card-component-Frontend-Mentor-.gitz)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: https://github.com/broquedev/nft-preview-card-component-Frontend-Mentor-.git
+- Live Site URL: https://broquedev.github.io/nft-preview-card-component-Frontend-Mentor/
 
 ### Built with
 
@@ -40,20 +32,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-
 ## Author
 
 - [denielden]
 - Frontend Mentor - [@denielden]
 
-
+## Thanks!!
 
