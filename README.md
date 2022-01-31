@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./images/print-nft-card.jpg)
+![screenshot](/images/print-nft-card.jpg)
 
 ### Links
 
