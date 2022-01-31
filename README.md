@@ -37,5 +37,5 @@ Users should be able to:
 - [denielden]
 - Frontend Mentor - [@denielden]
 
-# Thanks!
+## Thanks!
 
